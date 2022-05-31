@@ -7,18 +7,18 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/victor_lascares?style=for-the-badge)](https://twitter.com/victor_lascares)
 
 ## A little more about me...
+
 ```javascript
+
 const Vic = {
     dev: {
-        programmingLanguages: ['JavaScript','Python','Java'],
-        markupLanguages: ['HTML','Markdown'],
-        styleLanguages: ['CSS', 'Sass'],
-        libraries: ['React'],
-        frameworks: [''],
-        databaseManagers: ['MySQL', 'MariaDB', 'MongoDB'],
-        operativeSystems: ['Linux', 'Windows']
+      programmingLanguages: ['JavaScript','Python','Java'],
+      markupLanguages: ['HTML','Markdown'],
+      styles: ['CSS', 'Sass'],
+      frameworks: ['Bootstrap', 'React'],
+      databaseManagers: ['MySQL', 'MariaDB', 'MongoDB'],
+      operativeSystems: ['Linux', 'Windows']
     }
 }
-
 
 ```
