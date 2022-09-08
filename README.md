@@ -12,11 +12,12 @@
 
 const Vic = {
     dev: {
-      programmingLanguages: ['JavaScript','Python','Java'],
+      programmingLanguages: ['JavaScript'],
       markupLanguages: ['HTML','Markdown'],
       styles: ['CSS', 'Sass'],
-      frameworks: ['Bootstrap', 'React'],
-      databaseManagers: ['MySQL', 'MariaDB', 'MongoDB'],
+      libraries: ['Bootstrap','ReactJS'],
+      frameworks: ['TailwindCSS','NextJS'],
+      databaseManagers: ['MySQL', 'PostgreSQL', 'MongoDB'],
       operativeSystems: ['Linux', 'Windows']
     }
 }
