@@ -5,14 +5,12 @@
 
 [![Linkedin: VictorLascares](https://img.shields.io/badge/-VictorLascares-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorLascares/)](https://www.linkedin.com/in/victorLascares/)
 [![wakatime](https://wakatime.com/badge/user/de099a76-b5bc-4344-94d3-971ed90aa834.svg?style=for-the-badge)](https://wakatime.com/@de099a76-b5bc-4344-94d3-971ed90aa834)
-<a href="https://stackoverflow.com/users/19846870/victor-lascares"><img src="https://stackoverflow.com/users/flair/19846870.png?theme=dark" width="208" height="58" alt="profile for Victor Lascares at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Victor Lascares at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ## A little more about me...
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorLascares&show_icons=true&theme=dark&locale=en&layout=compact" alt="victorlascares" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorlascares&theme=dark" alt="victorlascares" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
