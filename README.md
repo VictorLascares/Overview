@@ -23,3 +23,4 @@ const Vic = {
 }
 
 ```
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorLascares&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="victorlascares" /></p>
